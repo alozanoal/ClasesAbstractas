@@ -17,6 +17,9 @@ public class ClasesAbstractas {
     public static void main(String[] args) {
         // TODO code application logic here
         
+        // Cambio en Netbeans
+        System.out.println("Cambio en Netbeans");
+        
         Persona[] personas = {new Empleado("Luis Conde", 50000, 2009, 2, 25),
                               new Alumno("Ana López", "Biológicas")};
         for(Persona persona : personas) {            
