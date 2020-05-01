@@ -20,6 +20,9 @@ public class ClasesAbstractas {
         // Cambio en Netbeans (rama Cambios)
         System.out.println("Cambio en Netbeans: Rama Cambios");
         
+        // Cambio desde GitHub
+        System.out.println("Cambio desde GitHub en Rama Cambios");
+        
         Persona[] personas = {new Empleado("Luis Conde", 50000, 2009, 2, 25),
                               new Alumno("Ana López", "Biológicas")};
         for(Persona persona : personas) {            
